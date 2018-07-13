@@ -69,7 +69,7 @@ class TestLibraryRecordAdmin(object):
         site = AdminSite()
         library_record_admin = admin.LibraryRecordAdmin(models.LibraryRecord,  site)
 
-        obj = mixer.blend('mueni.LibraryRecord', book__title='Beyond limits')
+        obj = mixer.blend('mueni.LibraryRecord', gender='Female')
         result = library_record_admin.excerpt(obj)
         expected = obj.get_excerpt(20)
         assert result == expected,   (

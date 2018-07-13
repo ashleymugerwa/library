@@ -81,9 +81,10 @@ class LibraryRecord(models.Model):
     expected_return_date = models.DateTimeField()
     return_date = models.DateTimeField(null=True, blank=True)
     state = models.ForeignKey(State)
+    gender = models.CharField(max_length=100)
 
     def __unicode__(self):
         return u'%s %s' % (self.book, self.expected_return_date)
 
     def get_excerpt(self, char):
-        return self.book[:char]
+        return self.gender[:char]

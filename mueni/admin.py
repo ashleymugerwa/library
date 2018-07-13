@@ -64,10 +64,10 @@ admin.site.register(Member, MemberAdmin)
 
 
 class LibraryRecordAdmin(admin.ModelAdmin):
-    list_display = ('member', 'returned', 'book', 'expected_return_date', 'return_date')
+    list_display = ('member', 'returned', 'book', 'expected_return_date', 'return_date', 'Gender')
     search_fields = (
         'member__first_name', 'member__last_name', 'returned', 'book__title', 'expected_return_date',
-        'return_date')
+        'return_date', 'Gender')
 
     @staticmethod
     def excerpt(obj):
