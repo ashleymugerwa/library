@@ -10,7 +10,7 @@ from.. import views
 
 class TestCashDigitalView(object):
     """
-    This is a class for testing views
+    This is a class for testing CashDigital views
     """
     def set_up(self):
         # every test needs to access the request factory
