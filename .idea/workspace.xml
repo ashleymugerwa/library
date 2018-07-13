@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5beb011c-ab86-4a30-bfa4-b0497afbe59c" name="Default" comment="" />
+    <list default="true" id="5beb011c-ab86-4a30-bfa4-b0497afbe59c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlcov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlcov/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlcov/mueni_admin_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlcov/mueni_admin_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlcov/mueni_models_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlcov/mueni_models_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlcov/mueni_processors_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlcov/mueni_processors_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlcov/mueni_views_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlcov/mueni_views_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlcov/status.json" beforeDir="false" afterPath="$PROJECT_DIR$/htmlcov/status.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mueni/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mueni/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mueni/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mueni/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mueni/tests/tests_admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mueni/tests/tests_admin.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,59 +28,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mueni/views.py">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mueni/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1496">
-              <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+            <state relative-caret-position="532">
+              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
               <folding>
-                <element signature="e#0#52#0" expanded="true" />
+                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tests_processors.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mueni/tests/tests_processors.py">
+      <file leaf-file-name="tests_admin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mueni/tests/tests_admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+            <state relative-caret-position="372">
+              <caret line="71" column="63" selection-start-line="71" selection-start-column="63" selection-end-line="71" selection-end-column="63" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tests_views.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mueni/tests/tests_views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mueni/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="processors.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mueni/processors.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1513">
-              <caret line="89" column="49" selection-start-line="89" selection-start-column="49" selection-end-line="89" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -86,6 +67,9 @@
       <find>test_a</find>
       <find>ListView</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -125,14 +109,14 @@
         <option value="$PROJECT_DIR$/stude/tests/tests_admin.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/mueni/urls.py" />
-        <option value="$PROJECT_DIR$/mueni/admin.py" />
-        <option value="$PROJECT_DIR$/mueni/models.py" />
-        <option value="$PROJECT_DIR$/mueni/tests/tests_admin.py" />
         <option value="$PROJECT_DIR$/mueni/processors.py" />
         <option value="$PROJECT_DIR$/mueni/views.py" />
         <option value="$PROJECT_DIR$/stude/tests/tests_views.py" />
         <option value="$PROJECT_DIR$/mueni/tests/tests_processors.py" />
         <option value="$PROJECT_DIR$/mueni/tests/tests_views.py" />
+        <option value="$PROJECT_DIR$/mueni/models.py" />
+        <option value="$PROJECT_DIR$/mueni/tests/tests_admin.py" />
+        <option value="$PROJECT_DIR$/mueni/admin.py" />
       </list>
     </option>
   </component>
@@ -142,6 +126,7 @@
     <option name="width" value="1353" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -153,6 +138,17 @@
             <path>
               <item name="library" type="b2602c69:ProjectViewProjectNode" />
               <item name="library" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="mueni" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="mueni" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="library" type="b2602c69:ProjectViewProjectNode" />
@@ -195,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in tests_views.py">
+  <component name="RunManager" selected="Python tests.py.test in tests_admin.py">
     <configuration name="tests_services" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="library" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -279,8 +275,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.py.test in tests_views.py" />
         <item itemvalue="Python tests.py.test in tests_admin.py" />
+        <item itemvalue="Python tests.py.test in tests_views.py" />
         <item itemvalue="Python tests.py.test in tests_admin.py (1)" />
         <item itemvalue="Python tests.py.test in tests_processors.py" />
         <item itemvalue="Python.tests_services" />
@@ -301,15 +297,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_tests_admin_py - 2018.07.12 at 08h 44m 54s.xml">
-      <configuration name="py.test in tests_admin.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_tests_admin_py - 2018.07.12 at 09h 23m 53s.xml">
-      <configuration name="py.test in tests_admin.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_tests_admin_py - 2018.07.12 at 09h 26m 17s.xml">
-      <configuration name="py.test in tests_admin.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_in_tests_admin_py - 2018.07.12 at 09h 34m 14s.xml">
       <configuration name="py.test in tests_admin.py" configurationId="tests" />
     </history-entry>
@@ -331,16 +318,25 @@
     <history-entry file="py_test_in_tests_views_py - 2018.07.13 at 08h 33m 39s.xml">
       <configuration name="py.test in tests_views.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="py_test_in_tests_admin_py - 2018.07.13 at 11h 29m 30s.xml">
+      <configuration name="py.test in tests_admin.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_tests_admin_py - 2018.07.13 at 11h 30m 23s.xml">
+      <configuration name="py.test in tests_admin.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_tests_admin_py - 2018.07.13 at 11h 33m 07s.xml">
+      <configuration name="py.test in tests_admin.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49917626" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917626" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50074404" side_tool="true" weight="0.37726524" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="1" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.89508927" weight="0.53212523" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.89508927" visible="true" weight="0.0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49925596" weight="0.3294893" />
       <window_info id="Favorites" order="1" sideWeight="0.50082374" side_tool="true" weight="0.25" />
@@ -522,31 +518,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html" />
-    <entry file="file://$PROJECT_DIR$/mueni/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mueni/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mueni/backend/services.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4116">
           <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mueni/tests/test_models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="47" column="51" lean-forward="true" selection-start-line="47" selection-start-column="51" selection-end-line="47" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -567,13 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mueni/tests/tests_admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="71" column="49" selection-start-line="71" selection-start-column="49" selection-end-line="71" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stude/tests/tests_views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -588,26 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mueni/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mueni/tests/tests_processors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mueni/processors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1513">
@@ -617,10 +565,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mueni/tests/tests_views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        <state relative-caret-position="204">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mueni/tests/test_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="47" column="51" lean-forward="true" selection-start-line="47" selection-start-column="51" selection-end-line="47" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mueni/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="69" column="30" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mueni/tests/tests_processors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mueni/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mueni/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mueni/tests/tests_admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="71" column="63" selection-start-line="71" selection-start-column="63" selection-end-line="71" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
