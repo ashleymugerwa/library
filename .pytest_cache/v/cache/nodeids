@@ -1,0 +1,8 @@
+[
+  "mueni/tests/tests_views.py::TestCashDigitalView::()::test_add_book", 
+  "mueni/tests/tests_views.py::TestCashDigitalView::()::test_register_member", 
+  "mueni/tests/tests_views.py::TestCashDigitalView::()::test_borrow_book", 
+  "mueni/tests/tests_views.py::TestCashDigitalView::()::test_remove_book", 
+  "mueni/tests/tests_views.py::TestCashDigitalView::()::test_deactivate_member", 
+  "mueni/tests/tests_views.py::TestCashDigitalView::()::test_return_book"
+]

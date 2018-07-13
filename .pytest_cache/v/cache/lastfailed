@@ -1,0 +1,16 @@
+{
+  "mueni/tests/test_models.py::TestAuthors::()::test_authors_model": true, 
+  "mueni/tests/test_models.py::TestAuthors::()::test_stude_model": true, 
+  "mueni/tests/tests_admin.py::TestLibraryRecordAdmin::()::test_library_record": true, 
+  "mueni/tests/tests_forms.py::TestPostForm": true, 
+  "mueni/tests/tests_services.py::TestLibraryRecordService::()::test_create_library_records": true, 
+  "mueni/tests/tests_services.py::TestLibraryRecordService::()::test_update_library_records": true, 
+  "mueni/tests/tests_views.py::TestCashDigitalView::()::test_add_book": true, 
+  "mueni/tests/tests_views.py::TestCashDigitalView::()::test_borrow_book": true, 
+  "mueni/tests/tests_views.py::TestCashDigitalView::()::test_deactivate_member": true, 
+  "mueni/tests/tests_views.py::TestCashDigitalView::()::test_register_member": true, 
+  "mueni/tests/tests_views.py::TestCashDigitalView::()::test_remove_book": true, 
+  "mueni/tests/tests_views.py::TestCashDigitalView::()::test_return_book": true, 
+  "stude/tests/test_model2.py::TestModeTwo::()::test_students_model": true, 
+  "stude/tests/test_model2.py::test_students_model": true
+}
